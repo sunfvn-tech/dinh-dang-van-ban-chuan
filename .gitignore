@@ -1,0 +1,18 @@
+# Bản build (đưa lên GitHub Releases, không commit)
+dist/
+*.exe
+*.syso
+cmd/setup/payload/*.exe
+# Kết quả chạy thử
+*_chuanhoa.docx
+*_chuanhoa.pdf
+# Bí mật / cấu hình cục bộ
+.env
+*.local.json
+config.local.*
+*.db
+*.sqlite
+logs/
+*.log
+cmd/setup/payload/*.gz
+cmd/app/HuongDanSuDung.txt.bak
