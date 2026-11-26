@@ -1,0 +1,78 @@
+﻿ĐỊNH DẠNG VĂN BẢN CHUẨN — HƯỚNG DẪN SỬ DỤNG (phiên bản 1.0.10)
+Định dạng lại / soạn văn bản đúng thể thức pháp luật Việt Nam
+(NĐ 30/2020 cho văn bản hành chính; NĐ 78/2025 sửa bởi NĐ 187/2025 cho VBQPPL)
+
+1. CÁCH DÙNG
+   B1. Bấm "Chọn file..." (hoặc kéo thả file vào cửa sổ / lên biểu tượng chương trình,
+       hoặc chuột phải vào file > Send to > DocStd).
+       Nhận: .docx, .doc, .txt, .pdf (thêm .rtf, .odt). Có thể chọn nhiều file.
+   B2. Chọn loại văn bản: Tự nhận diện / Văn bản hành chính (NĐ 30/2020) / VBQPPL (NĐ 78/2025 sửa bởi NĐ 187/2025).
+   B3. Chọn kiểu xuất: Chỉ file Word (.docx)  hoặc  File Word (.docx) và PDF.
+       Để trống "Lưu vào thư mục" thì kết quả nằm cùng thư mục với file gốc.
+   B4. Bấm "ĐỊNH DẠNG VĂN BẢN". Kết quả: <tên gốc>_chuanhoa.docx (và .pdf). File gốc không bị sửa.
+   B5. Đọc "Nhật ký xử lý": các thành phần đã nhận diện, các điểm đã sửa, chỗ còn "..." cần điền.
+       Luôn soát lại văn bản trước khi trình ký.
+
+2. CHỌN LOẠI VĂN BẢN (CĂN CỨ ÁP DỤNG) — VÌ SAO CÓ 3 LỰA CHỌN
+   Việt Nam có HAI bộ quy định thể thức khác nhau:
+   - Văn bản hành chính (công văn, quyết định cá biệt, tờ trình, báo cáo, kế hoạch, thông báo,
+     giấy mời, hợp đồng, biên bản...): Nghị định 30/2020/NĐ-CP. Mọi văn bản của bệnh viện thuộc loại này.
+   - Văn bản quy phạm pháp luật – VBQPPL (luật, nghị định, thông tư, nghị quyết HĐND, quyết định QPPL
+     của UBND/Chủ tịch UBND...): Nghị định 78/2025/NĐ-CP, Phụ lục I đã được thay bởi Nghị định 187/2025/NĐ-CP.
+   Hai bộ giống nhau phần lớn (khổ giấy, lề, phông, Quốc hiệu, bố cục), chỉ khác vài điểm nên phải chọn đúng.
+
+   Chương trình trình bày KHÁC NHAU ở các điểm sau:
+   | Điểm                          | Văn bản hành chính (NĐ 30)     | VBQPPL (NĐ 78 sửa bởi NĐ 187)     |
+   | Số, ký hiệu                   | 07/QĐ-BV (không có năm)        | 03/2026/QĐ-UBND (có năm ban hành) |
+   | Đường kẻ dưới trích yếu       | Có                             | Không                             |
+   | Dòng căn cứ cuối cùng         | Kết thúc dấu chấm "."          | Dấu ";" rồi dòng "... ban hành    |
+   |                               |                                | Quyết định/Nghị định..." dấu "."  |
+   | Học hàm, học vị trước tên     | Bỏ (BSCKII., TS., ThS....)     | Giữ nguyên                        |
+   |   người ký                    |                                |                                   |
+
+   Ba lựa chọn:
+   (1) TỰ NHẬN DIỆN (mặc định, dùng cho hầu hết trường hợp). Chương trình coi là VBQPPL nếu có MỘT trong:
+       - số ký hiệu có năm, dạng .../2026/... (VD: 03/2026/QĐ-UBND);
+       - có dòng "... ban hành Quyết định/Nghị định/Thông tư/Nghị quyết..." sau phần căn cứ;
+       - tên loại là LUẬT, PHÁP LỆNH, NGHỊ ĐỊNH, THÔNG TƯ, THÔNG TƯ LIÊN TỊCH.
+       Không có dấu hiệu nào → văn bản hành chính. Nhật ký ghi rõ chương trình đã chọn bộ nào.
+   (2) VĂN BẢN HÀNH CHÍNH — chọn khi chắc chắn là văn bản hành chính mà chương trình nhận nhầm,
+       VD: quyết định cá biệt của UBND có trích dẫn "... ban hành Quyết định ..." trong căn cứ.
+   (3) VBQPPL — chọn khi soạn dự thảo VBQPPL chưa có số (ô Số để trống nên không có năm để nhận
+       biết), hoặc nghị quyết/quyết định QPPL mà chương trình không tự nhận ra.
+   Mẹo: để "Tự nhận diện", đọc dòng đầu Nhật ký ("Tự nhận diện: ... → áp dụng ..."); nếu sai thì
+   chọn lại (2) hoặc (3) và bấm ĐỊNH DẠNG VĂN BẢN lần nữa. Lựa chọn được ghi nhớ cho lần sau.
+
+3. YÊU CẦU
+   - Windows 10/11 (64-bit).
+   - File .doc, .pdf và xuất PDF cần Microsoft Word (2010 trở lên) hoặc LibreOffice đã cài trên máy.
+     File .docx và .txt xử lý trực tiếp, không cần Word.
+
+4. CHƯƠNG TRÌNH TỰ LÀM
+   - Khổ A4; lề trên/dưới 20 mm, trái 30 mm, phải 15 mm; phông Times New Roman.
+   - Quốc hiệu, Tiêu ngữ, tên cơ quan, các đường kẻ; ô Số và Địa danh-ngày cùng hàng.
+   - Số < 10 thêm 0; ngày < 10, tháng 1 và 2 thêm 0; ký hiệu viết hoa liền.
+   - Tên loại, trích yếu (công văn: "V/v ..."), kính gửi, thẩm quyền, căn cứ (in nghiêng, dấu ";").
+   - Chương/Mục/Điều, Phần; mục I., II.; đề mục thiếu dấu chấm ("2 Đánh giá" → "2. Đánh giá").
+   - Trích yếu viết HOA toàn bộ → chữ thường đậm (giữ chữ viết tắt BV, CNTT, UBND...).
+   - Khối Nơi nhận và chữ ký hai cột (người ký góc dưới bên phải); bổ sung "- Lưu: VT".
+   - Hợp đồng, biên bản: khối "ĐẠI DIỆN BÊN A" (trái) / "ĐẠI DIỆN BÊN B" (phải), không thêm Nơi nhận.
+   - Phụ lục sau chữ ký: mỗi phụ lục sang trang mới.
+   - Bảng số liệu: chia độ rộng cột theo nội dung (dữ liệu không xuống dòng, cột số không bị bẻ
+     đôi, tiêu đề lặp lại khi sang trang, dòng "Tổng" in đậm).
+   - Bỏ học hàm, học vị trước tên người ký (văn bản hành chính).
+   - Số trang giữa lề trên, không hiện ở trang 1.
+
+5. GIỚI HẠN
+   - Nhận diện thành phần dựa trên quy tắc; luôn soát lại kết quả trước khi trình ký.
+   - Văn bản chuyển từ bản scan: chương trình chỉ sửa thể thức, KHÔNG sửa lỗi chính tả do nhận
+     dạng chữ (VD: "CỎ PHÀN", "HỢP ĐÒNG" trong nội dung). Nên dùng bản Word gốc nếu có.
+   - Văn bản nhiều người ký, đánh số tự động của Word (numbering) có thể cần chỉnh tay.
+   - Phần kèm theo/phụ lục được đưa sang trang mới nhưng số trang chưa đánh lại riêng.
+
+6. CÀI ĐẶT / GỠ BỎ
+   - Chạy setup.exe > Cài đặt (không cần quyền Admin). Biểu tượng trên Desktop/Start Menu tên "DocStd". Cài im lặng hàng loạt: setup.exe /S
+     (thêm /D=C:\DuongDan để đổi thư mục). Gỡ: Settings > Apps (hoặc Control Panel > Programs) > DocStd > Uninstall.
+   - Dùng dòng lệnh (không cần cài): ddvbc-cli.exe [-p auto|vbhc|vbqppl] [-pdf] [-o thư_mục] file...
+
+Phòng Kỹ thuật - VTTB - CNTT, Bệnh viện Hữu nghị đa khoa Nghệ An - Giai đoạn 2.

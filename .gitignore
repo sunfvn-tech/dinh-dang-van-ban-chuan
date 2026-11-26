@@ -16,3 +16,6 @@ logs/
 *.log
 cmd/setup/payload/*.gz
 cmd/app/HuongDanSuDung.txt.bak
+
+# Bản phát hành (.exe) đặt trong releases/ để tải trực tiếp
+!releases/**
